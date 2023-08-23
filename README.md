@@ -1,6 +1,7 @@
 # CanvasCraft - Simple Drawing App using Android Canvas Library
 CanvasCraft is a simple Android application that lets you unleash your creativity by drawing on the screen using the Android Canvas library. This project serves as an exploration of Android's canvas capabilities, providing a basic painting app with a pencil tool. If you're looking to understand how to implement touch-based drawing and brush strokes in Android, this project could be a great starting point.
 
+## Screenshots
 <p align="middle">
 <img src="/res/Screenshot_1.png" width="260">
 <img src="/res/Screenshot_2.png" width="260">
