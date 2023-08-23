@@ -9,10 +9,11 @@ CanvasCraft is a simple Android application that lets you unleash your creativit
 </p>
 
 ## Features
-Pencil Drawing: Draw on the screen with a pencil-like tool.
-Ellipse Brush: Create ellipses and circles with the ellipse brush.
-Line Brush: Draw straight lines using the line brush.
-Rectangle Brush: Sketch rectangles and squares using the rectangle brush.
+
+- **Pencil Drawing:** Draw on the screen with a pencil-like tool.
+- **Ellipse Brush:** Create ellipses and circles with the ellipse brush.
+- **Line Brush:** Draw straight lines using the line brush.
+- **Rectangle Brush:** Sketch rectangles and squares using the rectangle brush.
 
 ## Inspired By
 This project is inspired by the tutorial on creating a [Paint Application in Android](https://www.geeksforgeeks.org/how-to-create-a-paint-application-in-android/) published on GeeksforGeeks.
